@@ -1,5 +1,5 @@
 
-
+<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner Hola, I'm Enzo Alca - Web Developer, Designer, Digital Marketer">
 
 <h3 align="left">About me:</h3>
 - 👋 Hi, I’m @ealcam
@@ -18,10 +18,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="c" width="40" height="40" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="c" width="40" height="40" /></a>
-   <a href="https://getbootstrap.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="c" width="40" height="40" /></a>
-   <a href="https://getbootstrap.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="c" width="40" height="40" /></a>
+   <a href="https://bulma.io/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="c" width="40" height="40" /></a>
+   <a href="https://www.canva.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="c" width="40" height="40" /></a>
 
   </p>
 
