@@ -1,5 +1,5 @@
 
-<img src=https://github.com/ealcam/ealcam/blob/29e5178704b7d58963b25ab381be1c857680b301/BannerGithub2022.jpg alt="banner Hola, I'm Enzo Alca - Web Developer, Designer, Digital Marketer">
+<img src=ProfileGitHub_22.png alt="banner Hola, I'm Enzo Alca - Web Developer, Designer, Digital Marketer">
 
 <h3 align="left">About me:</h3>
 - 👋 Hi, I’m @ealcam
